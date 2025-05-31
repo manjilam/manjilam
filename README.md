@@ -1,5 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Manjila M
 
+Welcome to my GitHub! I'm passionate about data science, AI, and building tools that solve real-world problems. Here are a couple of projects I've worked on:
+
+- 🔧 [Reddit Subreddit Classifier]([https://github.com/manjilam/NLP-reddit-calssification]): A natural language processing project that predicts whether a Reddit post belongs to the Minimalism or Declutter subreddit using TF-IDF and classification models.
+
+- 🌿 [SF Crime Modeling]([(https://github.com/manjilam/SF-crime-modeling)): A machine-learning model that uses location, time, and incident metadata to flag at least 80 percent of high-priority 911 calls in real time, enabling law enforcement agencies to meet their goal of response time.
+
+
+
+Thanks for stopping by — more projects coming soon!
 <!--
 **manjilam/manjilam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
