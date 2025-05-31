@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Manjila M
+# 👋 Hi, I'm Manjila Moktan
 
 Welcome to my GitHub! I'm passionate about data science, AI, and building tools that solve real-world problems. Here are a couple of projects I've worked on:
 
