@@ -20,7 +20,6 @@ Welcome to my GitHub! I'm passionate about data science, AI, and building tools 
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-%234285F4.svg?style=for-the-badge&logo=looker&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
@@ -40,7 +39,7 @@ Here are a couple of projects I've worked on:
 
 - 🌿 [SF Crime Modeling]([(https://github.com/manjilam/SF-crime-modeling)): A machine-learning model that uses location, time, and incident metadata to flag at least 80 percent of high-priority 911 calls in real time, enabling law enforcement agencies to meet their goal of response time.
 
-
+- 🔧 [Ames Housing Price Prediction]([https://github.com/manjilam/PricePrediction]): Machine Learning models to predict price of houses with a high accuracy.
 
 Thanks for stopping by — more projects coming soon!
 
